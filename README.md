@@ -6,37 +6,7 @@ Este repositorio contiene una solución empresarial **End-to-End** de Ingenierí
 
 ## 🗺️ Arquitectura de la Solución (Data & MLOps Pipeline)
 
-El flujo de datos se procesa de forma robusta a través de las siguientes etapas:
-
-[ ADLS Gen2: fuentes/ ] ──( ADF Copy )──> [ ADLS Gen2: raw/temp/ ]
-│
-(ADF Pipeline Trigger)
-▼
-[ Ingestion: PySpark Notebook ]
-│
-┌──────────────────────────────┴──────────────────────────────┐
-▼ (Filtro de Calidad Bloqueante)                             ▼ (Registros Inválidos)
-[ ecommerce_raw.raw_sales ]                                    [ ecommerce_raw.quarantine_sales ]
-│
-( dbt compile & run )
-▼
-[ ecommerce_silver.stg_sales ] (Deduplicación ROW_NUMBER)
-[ ecommerce_silver.stg_customers ] (Table)
-[ ecommerce_silver.stg_products ] (Table)
-│
-( dbt Integrity Test )
-▼
-[ ecommerce_silver.int_sales_validated ] (Inner Join / Limpieza)
-│
-( dbt Gold Promotion )
-▼
-[ ecommerce_gold.customer_360 ] (Feature Store Analítico)
-│
-( Spark ML Model Run )
-▼
-[ ecommerce_gold.final_predictions_ml ] ──> [ ecommerce_gold.final_predictions_ml_analytics ]
-│
-( Power BI / BI Ready )
+![Texto alternativo](project/architecture/imarchitecture.png)
 
 ## 🛠️ Tecnologías Elegidas & Justificación
 
