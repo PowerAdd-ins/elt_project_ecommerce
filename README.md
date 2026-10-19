@@ -6,7 +6,7 @@ Este repositorio contiene una solución empresarial **End-to-End** de Ingenierí
 
 ## 🗺️ Arquitectura de la Solución (Data & MLOps Pipeline)
 
-![Texto alternativo](project/architecture/imarchitecture.png)
+![Arquitectura](project/architecture/architecture.png)
 
 ## 🛠️ Tecnologías Elegidas & Justificación
 
