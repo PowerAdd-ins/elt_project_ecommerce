@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: stg_sales
+    description: "Tabla de ventas limpias y tipificadas de la capa Silver"
+    columns:
+      - name: sale_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+      - name: product_id
+        tests:
+          - not_null
+
+  - name: int_sales_validated
+    description: "Ventas que pasaron con éxito la validación de llaves foráneas"
+    columns:
+      - name: customer_id
+        tests:
+          - relationships:
+              arguments: # <-- Nueva propiedad requerida por dbt v1.12
+                to: ref('stg_customers')
+                field: customer_id
+      - name: product_id
+        tests:
+          - relationships:
+              arguments: # <-- Nueva propiedad requerida por dbt v1.12
+                to: ref('stg_products')
+                field: product_id

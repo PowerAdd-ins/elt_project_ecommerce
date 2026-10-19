@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: ecommerce_raw
+    catalog: catalog_prueba_adls
+    schema: ecommerce_raw       # <-- dbt busca las fuentes aquí
+    tables:
+      - name: raw_sales
+      - name: raw_customers
+      - name: raw_products

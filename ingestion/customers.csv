@@ -1,0 +1,501 @@
+customer_id,signup_date,city,segment
+CUST_001,2025-11-10,Medellin,Consumer
+CUST_002,2025-07-07,Cali,Consumer
+CUST_003,2025-06-11,Cali,Home Office
+CUST_004,2025-09-28,Barranquilla,Corporate
+CUST_005,2025-02-03,Medellin,Corporate
+CUST_006,2025-10-13,Medellin,Consumer
+CUST_007,2025-11-16,Cali,Consumer
+CUST_008,2025-01-09,Cartagena,Consumer
+CUST_009,2025-01-20,Barranquilla,Home Office
+CUST_010,2025-01-19,Bogota,Consumer
+CUST_011,2025-01-26,Cali,Consumer
+CUST_012,2025-11-30,Bogota,Corporate
+CUST_013,2025-12-30,Cali,Consumer
+CUST_014,2025-09-05,Bogota,Home Office
+CUST_015,2025-12-10,Bogota,Corporate
+CUST_016,2025-09-09,Medellin,Corporate
+CUST_017,2025-01-20,Barranquilla,Corporate
+CUST_018,2025-03-28,Bogota,Consumer
+CUST_019,2025-08-03,Cartagena,Corporate
+CUST_020,2025-07-09,Barranquilla,Corporate
+CUST_021,2025-07-04,Barranquilla,Home Office
+CUST_022,2025-12-22,Barranquilla,Home Office
+CUST_023,2025-09-21,Bogota,Home Office
+CUST_024,2025-01-24,Bogota,Home Office
+CUST_025,2025-12-25,Medellin,Consumer
+CUST_026,2025-06-06,Cartagena,Home Office
+CUST_027,2025-07-18,Medellin,Home Office
+CUST_028,2025-11-15,Bogota,Home Office
+CUST_029,2025-12-31,Cartagena,Home Office
+CUST_030,2025-08-24,Bogota,Corporate
+CUST_031,2025-09-24,Bogota,Corporate
+CUST_032,2025-07-09,Barranquilla,Consumer
+CUST_033,2025-07-21,Cali,Home Office
+CUST_034,2025-06-23,Cartagena,Consumer
+CUST_035,2025-01-29,Barranquilla,Home Office
+CUST_036,2025-01-26,Cali,Consumer
+CUST_037,2025-10-31,Barranquilla,Consumer
+CUST_038,2025-10-13,Cali,Home Office
+CUST_039,2025-06-15,Bogota,Consumer
+CUST_040,2025-12-03,Bogota,Corporate
+CUST_041,2025-04-01,Barranquilla,Home Office
+CUST_042,2025-01-09,Bogota,Home Office
+CUST_043,2025-10-13,Barranquilla,Home Office
+CUST_044,2025-09-29,Barranquilla,Home Office
+CUST_045,2025-10-24,Medellin,Consumer
+CUST_046,2025-07-14,Barranquilla,Corporate
+CUST_047,2025-08-28,Cali,Home Office
+CUST_048,2025-11-15,Cartagena,Consumer
+CUST_049,2025-05-19,Medellin,Home Office
+CUST_050,2025-07-15,Cali,Corporate
+CUST_051,2025-05-13,Cali,Corporate
+CUST_052,2025-01-05,Cali,Corporate
+CUST_053,2025-08-06,Barranquilla,Consumer
+CUST_054,2025-12-03,Cali,Corporate
+CUST_055,2025-02-17,Cali,Corporate
+CUST_056,2025-05-17,Barranquilla,Corporate
+CUST_057,2025-11-29,Medellin,Home Office
+CUST_058,2025-01-05,Cartagena,Corporate
+CUST_059,2025-12-27,Barranquilla,Consumer
+CUST_060,2025-11-09,Medellin,Corporate
+CUST_061,2025-10-22,Medellin,Consumer
+CUST_062,2025-10-23,Barranquilla,Consumer
+CUST_063,2025-05-01,Cartagena,Corporate
+CUST_064,2025-06-14,Cartagena,Home Office
+CUST_065,2025-07-12,Medellin,Home Office
+CUST_066,2025-09-08,Bogota,Consumer
+CUST_067,2025-05-08,Cali,Corporate
+CUST_068,2025-09-28,Cali,Corporate
+CUST_069,2025-02-27,Medellin,Consumer
+CUST_070,2025-12-15,Barranquilla,Home Office
+CUST_071,2025-06-17,Medellin,Home Office
+CUST_072,2025-06-24,Barranquilla,Consumer
+CUST_073,2025-10-21,Medellin,Home Office
+CUST_074,2025-09-04,Bogota,Corporate
+CUST_075,2025-06-04,Cali,Consumer
+CUST_076,2025-11-25,Medellin,Consumer
+CUST_077,2025-09-10,Cartagena,Corporate
+CUST_078,2025-11-24,Cartagena,Corporate
+CUST_079,2025-08-17,Cartagena,Home Office
+CUST_080,2025-02-22,Bogota,Corporate
+CUST_081,2025-08-17,Barranquilla,Consumer
+CUST_082,2025-09-09,Cartagena,Consumer
+CUST_083,2025-09-09,Cali,Corporate
+CUST_084,2025-08-13,Barranquilla,Consumer
+CUST_085,2025-08-03,Barranquilla,Consumer
+CUST_086,2025-09-17,Bogota,Consumer
+CUST_087,2025-11-15,Cartagena,Consumer
+CUST_088,2025-02-14,Medellin,Corporate
+CUST_089,2025-10-08,Medellin,Consumer
+CUST_090,2025-07-27,Medellin,Consumer
+CUST_091,2025-12-13,Bogota,Consumer
+CUST_092,2025-12-21,Bogota,Corporate
+CUST_093,2025-06-01,Medellin,Corporate
+CUST_094,2025-10-14,Bogota,Home Office
+CUST_095,2025-07-18,Bogota,Home Office
+CUST_096,2025-10-12,Bogota,Consumer
+CUST_097,2025-03-31,Bogota,Home Office
+CUST_098,2025-12-11,Medellin,Consumer
+CUST_099,2025-05-03,Cartagena,Corporate
+CUST_100,2025-11-17,Bogota,Corporate
+CUST_101,2025-05-10,Bogota,Home Office
+CUST_102,2025-06-22,Cali,Consumer
+CUST_103,2025-05-05,Medellin,Home Office
+CUST_104,2025-11-17,Medellin,Corporate
+CUST_105,2025-11-30,Barranquilla,Corporate
+CUST_106,2025-04-13,Medellin,Home Office
+CUST_107,2025-02-06,Cartagena,Home Office
+CUST_108,2025-02-13,Medellin,Corporate
+CUST_109,2025-07-24,Cartagena,Consumer
+CUST_110,2025-09-10,Cali,Corporate
+CUST_111,2025-02-23,Medellin,Corporate
+CUST_112,2025-03-11,Cali,Consumer
+CUST_113,2025-10-16,Cartagena,Home Office
+CUST_114,2025-01-18,Bogota,Consumer
+CUST_115,2025-07-28,Bogota,Consumer
+CUST_116,2025-12-09,Medellin,Corporate
+CUST_117,2025-03-27,Barranquilla,Consumer
+CUST_118,2025-02-24,Cartagena,Consumer
+CUST_119,2025-06-05,Medellin,Consumer
+CUST_120,2025-05-09,Bogota,Corporate
+CUST_121,2025-01-31,Barranquilla,Home Office
+CUST_122,2025-02-01,Cali,Corporate
+CUST_123,2025-09-20,Cartagena,Consumer
+CUST_124,2025-09-14,Medellin,Consumer
+CUST_125,2025-09-24,Bogota,Consumer
+CUST_126,2025-07-11,Bogota,Consumer
+CUST_127,2025-01-03,Barranquilla,Home Office
+CUST_128,2025-06-17,Barranquilla,Corporate
+CUST_129,2025-04-26,Barranquilla,Home Office
+CUST_130,2025-04-07,Bogota,Consumer
+CUST_131,2025-07-08,Cartagena,Home Office
+CUST_132,2025-07-12,Barranquilla,Corporate
+CUST_133,2025-06-19,Bogota,Consumer
+CUST_134,2025-08-09,Cartagena,Home Office
+CUST_135,2025-12-26,Medellin,Corporate
+CUST_136,2025-04-14,Bogota,Consumer
+CUST_137,2025-12-24,Bogota,Corporate
+CUST_138,2025-01-06,Cali,Corporate
+CUST_139,2025-10-20,Barranquilla,Consumer
+CUST_140,2025-02-09,Bogota,Home Office
+CUST_141,2025-10-22,Cali,Consumer
+CUST_142,2025-03-03,Cartagena,Home Office
+CUST_143,2025-06-06,Bogota,Corporate
+CUST_144,2025-09-04,Bogota,Consumer
+CUST_145,2025-08-25,Cali,Corporate
+CUST_146,2025-12-17,Cali,Corporate
+CUST_147,2025-03-27,Bogota,Home Office
+CUST_148,2025-07-20,Medellin,Consumer
+CUST_149,2025-10-13,Barranquilla,Corporate
+CUST_150,2025-07-02,Medellin,Home Office
+CUST_151,2025-12-19,Barranquilla,Corporate
+CUST_152,2025-03-28,Bogota,Corporate
+CUST_153,2025-10-18,Barranquilla,Home Office
+CUST_154,2025-04-07,Barranquilla,Consumer
+CUST_155,2025-03-16,Cartagena,Home Office
+CUST_156,2025-02-17,Cartagena,Home Office
+CUST_157,2025-10-15,Barranquilla,Consumer
+CUST_158,2025-09-17,Bogota,Consumer
+CUST_159,2025-12-10,Cali,Corporate
+CUST_160,2025-12-31,Barranquilla,Consumer
+CUST_161,2025-12-22,Medellin,Home Office
+CUST_162,2025-10-19,Bogota,Home Office
+CUST_163,2025-12-18,Medellin,Consumer
+CUST_164,2025-11-27,Cali,Consumer
+CUST_165,2025-11-20,Barranquilla,Consumer
+CUST_166,2025-08-13,Bogota,Corporate
+CUST_167,2025-01-06,Cali,Consumer
+CUST_168,2025-05-07,Cartagena,Corporate
+CUST_169,2025-07-17,Bogota,Consumer
+CUST_170,2025-06-28,Medellin,Consumer
+CUST_171,2025-10-23,Barranquilla,Consumer
+CUST_172,2025-03-26,Medellin,Home Office
+CUST_173,2025-12-08,Medellin,Home Office
+CUST_174,2025-11-30,Medellin,Consumer
+CUST_175,2025-10-31,Cali,Corporate
+CUST_176,2025-09-18,Bogota,Corporate
+CUST_177,2025-03-03,Cali,Corporate
+CUST_178,2025-08-20,Cartagena,Corporate
+CUST_179,2025-11-23,Bogota,Corporate
+CUST_180,2025-10-18,Cali,Home Office
+CUST_181,2025-06-30,Bogota,Home Office
+CUST_182,2025-12-14,Cartagena,Corporate
+CUST_183,2025-01-30,Medellin,Home Office
+CUST_184,2025-02-18,Medellin,Consumer
+CUST_185,2025-11-03,Bogota,Home Office
+CUST_186,2025-02-12,Cartagena,Corporate
+CUST_187,2025-02-17,Barranquilla,Home Office
+CUST_188,2025-09-02,Bogota,Consumer
+CUST_189,2025-10-26,Cali,Consumer
+CUST_190,2025-07-07,Medellin,Corporate
+CUST_191,2025-01-27,Barranquilla,Corporate
+CUST_192,2025-08-05,Bogota,Corporate
+CUST_193,2025-01-26,Cali,Consumer
+CUST_194,2025-04-09,Barranquilla,Home Office
+CUST_195,2025-06-11,Barranquilla,Corporate
+CUST_196,2025-10-26,Cali,Consumer
+CUST_197,2025-02-05,Bogota,Home Office
+CUST_198,2025-04-25,Cali,Corporate
+CUST_199,2025-03-15,Bogota,Corporate
+CUST_200,2025-06-03,Medellin,Home Office
+CUST_201,2025-11-26,Bogota,Consumer
+CUST_202,2025-01-02,Cali,Home Office
+CUST_203,2025-09-12,Medellin,Consumer
+CUST_204,2025-10-08,Medellin,Consumer
+CUST_205,2025-08-26,Cali,Corporate
+CUST_206,2025-08-24,Bogota,Consumer
+CUST_207,2025-12-28,Barranquilla,Home Office
+CUST_208,2025-09-06,Cali,Consumer
+CUST_209,2025-06-12,Bogota,Consumer
+CUST_210,2025-04-16,Cartagena,Corporate
+CUST_211,2025-06-16,Bogota,Consumer
+CUST_212,2025-04-22,Cali,Corporate
+CUST_213,2025-06-26,Medellin,Corporate
+CUST_214,2025-06-17,Bogota,Home Office
+CUST_215,2025-10-30,Medellin,Consumer
+CUST_216,2025-07-07,Cali,Corporate
+CUST_217,2025-06-22,Cartagena,Consumer
+CUST_218,2025-09-14,Barranquilla,Consumer
+CUST_219,2025-01-10,Barranquilla,Home Office
+CUST_220,2025-10-10,Medellin,Home Office
+CUST_221,2025-02-18,Medellin,Consumer
+CUST_222,2025-08-14,Cartagena,Corporate
+CUST_223,2025-05-11,Cartagena,Corporate
+CUST_224,2025-09-26,Cartagena,Corporate
+CUST_225,2025-07-18,Cartagena,Consumer
+CUST_226,2025-05-14,Barranquilla,Corporate
+CUST_227,2025-05-29,Medellin,Home Office
+CUST_228,2025-02-20,Bogota,Consumer
+CUST_229,2025-05-25,Cali,Consumer
+CUST_230,2025-05-23,Barranquilla,Consumer
+CUST_231,2025-12-08,Medellin,Consumer
+CUST_232,2025-09-21,Cartagena,Corporate
+CUST_233,2025-10-10,Medellin,Consumer
+CUST_234,2025-06-08,Medellin,Home Office
+CUST_235,2025-08-26,Barranquilla,Corporate
+CUST_236,2025-05-07,Medellin,Consumer
+CUST_237,2025-08-03,Medellin,Consumer
+CUST_238,2025-06-30,Medellin,Corporate
+CUST_239,2025-05-22,Bogota,Home Office
+CUST_240,2025-07-20,Cartagena,Corporate
+CUST_241,2025-12-15,Bogota,Consumer
+CUST_242,2025-07-04,Barranquilla,Home Office
+CUST_243,2025-12-02,Cartagena,Home Office
+CUST_244,2025-12-10,Bogota,Corporate
+CUST_245,2025-04-29,Cartagena,Corporate
+CUST_246,2025-10-04,Bogota,Home Office
+CUST_247,2025-05-21,Bogota,Home Office
+CUST_248,2025-02-21,Bogota,Corporate
+CUST_249,2025-01-15,Cali,Corporate
+CUST_250,2025-03-08,Bogota,Consumer
+CUST_251,2025-05-21,Bogota,Home Office
+CUST_252,2025-11-22,Bogota,Home Office
+CUST_253,2025-07-31,Bogota,Corporate
+CUST_254,2025-11-14,Medellin,Consumer
+CUST_255,2025-08-28,Cali,Home Office
+CUST_256,2025-07-08,Bogota,Consumer
+CUST_257,2025-01-20,Barranquilla,Home Office
+CUST_258,2025-08-14,Bogota,Home Office
+CUST_259,2025-02-17,Medellin,Home Office
+CUST_260,2025-08-04,Cartagena,Corporate
+CUST_261,2025-12-30,Bogota,Home Office
+CUST_262,2025-03-07,Barranquilla,Consumer
+CUST_263,2025-01-25,Cartagena,Corporate
+CUST_264,2025-08-12,Bogota,Corporate
+CUST_265,2025-10-31,Bogota,Consumer
+CUST_266,2025-03-25,Cartagena,Consumer
+CUST_267,2025-01-24,Cali,Corporate
+CUST_268,2025-07-27,Barranquilla,Home Office
+CUST_269,2025-09-20,Medellin,Corporate
+CUST_270,2025-10-09,Cartagena,Home Office
+CUST_271,2025-06-05,Barranquilla,Home Office
+CUST_272,2025-02-07,Cartagena,Home Office
+CUST_273,2025-06-01,Bogota,Home Office
+CUST_274,2025-03-22,Cali,Home Office
+CUST_275,2025-05-13,Cali,Consumer
+CUST_276,2025-02-15,Cali,Consumer
+CUST_277,2025-08-10,Medellin,Consumer
+CUST_278,2025-04-09,Medellin,Corporate
+CUST_279,2025-08-28,Barranquilla,Corporate
+CUST_280,2025-10-25,Barranquilla,Consumer
+CUST_281,2025-12-29,Cali,Corporate
+CUST_282,2025-08-17,Cartagena,Home Office
+CUST_283,2025-05-29,Barranquilla,Home Office
+CUST_284,2025-12-22,Cartagena,Corporate
+CUST_285,2025-12-15,Medellin,Corporate
+CUST_286,2025-09-29,Cartagena,Corporate
+CUST_287,2025-10-27,Bogota,Home Office
+CUST_288,2025-08-31,Cali,Home Office
+CUST_289,2025-02-13,Barranquilla,Home Office
+CUST_290,2025-04-07,Barranquilla,Corporate
+CUST_291,2025-12-19,Bogota,Home Office
+CUST_292,2025-08-27,Bogota,Corporate
+CUST_293,2025-01-08,Bogota,Corporate
+CUST_294,2025-09-03,Bogota,Home Office
+CUST_295,2025-01-20,Bogota,Home Office
+CUST_296,2025-05-29,Cartagena,Corporate
+CUST_297,2025-04-26,Cartagena,Consumer
+CUST_298,2025-03-11,Cartagena,Home Office
+CUST_299,2025-05-08,Bogota,Corporate
+CUST_300,2025-04-14,Cali,Corporate
+CUST_301,2025-01-03,Bogota,Home Office
+CUST_302,2025-07-30,Cali,Consumer
+CUST_303,2025-06-03,Cali,Home Office
+CUST_304,2025-05-11,Medellin,Corporate
+CUST_305,2025-10-10,Medellin,Corporate
+CUST_306,2025-01-09,Medellin,Corporate
+CUST_307,2025-09-21,Cali,Consumer
+CUST_308,2025-08-24,Cartagena,Home Office
+CUST_309,2025-02-11,Barranquilla,Corporate
+CUST_310,2025-05-01,Medellin,Corporate
+CUST_311,2025-04-21,Medellin,Corporate
+CUST_312,2025-04-18,Barranquilla,Corporate
+CUST_313,2025-09-22,Bogota,Home Office
+CUST_314,2025-02-12,Cali,Corporate
+CUST_315,2025-12-25,Medellin,Consumer
+CUST_316,2025-10-30,Barranquilla,Consumer
+CUST_317,2025-11-08,Barranquilla,Home Office
+CUST_318,2025-10-19,Cali,Consumer
+CUST_319,2025-04-17,Bogota,Home Office
+CUST_320,2025-12-29,Cali,Home Office
+CUST_321,2025-04-08,Cali,Corporate
+CUST_322,2025-11-14,Bogota,Home Office
+CUST_323,2025-01-28,Cartagena,Consumer
+CUST_324,2025-04-30,Cali,Corporate
+CUST_325,2025-08-21,Barranquilla,Home Office
+CUST_326,2025-03-20,Cali,Home Office
+CUST_327,2025-02-03,Medellin,Home Office
+CUST_328,2025-04-03,Cali,Home Office
+CUST_329,2025-12-13,Barranquilla,Home Office
+CUST_330,2025-09-24,Cali,Consumer
+CUST_331,2025-05-01,Barranquilla,Home Office
+CUST_332,2025-12-18,Barranquilla,Home Office
+CUST_333,2025-08-24,Medellin,Consumer
+CUST_334,2025-07-27,Cali,Home Office
+CUST_335,2025-12-27,Bogota,Home Office
+CUST_336,2025-09-25,Bogota,Consumer
+CUST_337,2025-05-03,Barranquilla,Corporate
+CUST_338,2025-03-12,Bogota,Consumer
+CUST_339,2025-08-11,Cali,Home Office
+CUST_340,2025-01-19,Bogota,Home Office
+CUST_341,2025-12-25,Cartagena,Consumer
+CUST_342,2025-03-18,Cali,Consumer
+CUST_343,2025-02-08,Cali,Consumer
+CUST_344,2025-07-15,Medellin,Home Office
+CUST_345,2025-09-30,Cartagena,Home Office
+CUST_346,2025-02-10,Barranquilla,Corporate
+CUST_347,2025-04-20,Bogota,Corporate
+CUST_348,2025-02-22,Medellin,Corporate
+CUST_349,2025-05-10,Cartagena,Home Office
+CUST_350,2025-05-03,Cali,Consumer
+CUST_351,2025-05-14,Medellin,Consumer
+CUST_352,2025-03-15,Cali,Consumer
+CUST_353,2025-08-25,Cali,Corporate
+CUST_354,2025-09-06,Cali,Corporate
+CUST_355,2025-03-14,Cartagena,Corporate
+CUST_356,2025-02-06,Barranquilla,Consumer
+CUST_357,2025-03-17,Bogota,Consumer
+CUST_358,2025-12-17,Bogota,Corporate
+CUST_359,2025-07-12,Cartagena,Home Office
+CUST_360,2025-10-15,Barranquilla,Consumer
+CUST_361,2025-06-15,Medellin,Corporate
+CUST_362,2025-12-11,Medellin,Corporate
+CUST_363,2025-12-01,Barranquilla,Consumer
+CUST_364,2025-08-31,Bogota,Corporate
+CUST_365,2025-12-06,Cali,Consumer
+CUST_366,2025-08-01,Barranquilla,Home Office
+CUST_367,2025-11-10,Cali,Home Office
+CUST_368,2025-03-01,Medellin,Corporate
+CUST_369,2025-08-25,Medellin,Consumer
+CUST_370,2025-12-02,Barranquilla,Home Office
+CUST_371,2025-08-23,Bogota,Corporate
+CUST_372,2025-03-26,Barranquilla,Corporate
+CUST_373,2025-02-01,Medellin,Home Office
+CUST_374,2025-10-25,Medellin,Corporate
+CUST_375,2025-01-24,Medellin,Home Office
+CUST_376,2025-06-11,Medellin,Consumer
+CUST_377,2025-09-30,Cartagena,Home Office
+CUST_378,2025-01-11,Barranquilla,Home Office
+CUST_379,2025-01-27,Medellin,Consumer
+CUST_380,2025-04-12,Medellin,Corporate
+CUST_381,2025-05-20,Cartagena,Corporate
+CUST_382,2025-08-29,Bogota,Home Office
+CUST_383,2025-01-13,Bogota,Consumer
+CUST_384,2025-04-24,Medellin,Consumer
+CUST_385,2025-08-10,Medellin,Consumer
+CUST_386,2025-01-16,Cartagena,Corporate
+CUST_387,2025-02-04,Medellin,Home Office
+CUST_388,2025-05-10,Cali,Consumer
+CUST_389,2025-07-13,Barranquilla,Consumer
+CUST_390,2025-12-06,Bogota,Corporate
+CUST_391,2025-12-28,Barranquilla,Corporate
+CUST_392,2025-03-29,Bogota,Home Office
+CUST_393,2025-10-11,Bogota,Consumer
+CUST_394,2025-07-26,Cali,Corporate
+CUST_395,2025-03-22,Cali,Consumer
+CUST_396,2025-04-10,Cartagena,Consumer
+CUST_397,2025-03-26,Medellin,Corporate
+CUST_398,2025-06-10,Barranquilla,Consumer
+CUST_399,2025-11-11,Medellin,Consumer
+CUST_400,2025-12-13,Cartagena,Corporate
+CUST_401,2025-01-03,Bogota,Corporate
+CUST_402,2025-09-14,Cali,Home Office
+CUST_403,2025-12-23,Cartagena,Consumer
+CUST_404,2025-10-06,Cali,Home Office
+CUST_405,2025-05-08,Medellin,Corporate
+CUST_406,2025-11-02,Bogota,Home Office
+CUST_407,2025-05-05,Barranquilla,Consumer
+CUST_408,2025-01-22,Cali,Home Office
+CUST_409,2025-03-23,Bogota,Home Office
+CUST_410,2025-12-03,Cartagena,Consumer
+CUST_411,2025-07-20,Cali,Corporate
+CUST_412,2025-06-04,Barranquilla,Corporate
+CUST_413,2025-12-08,Medellin,Home Office
+CUST_414,2025-07-31,Cali,Consumer
+CUST_415,2025-05-08,Bogota,Consumer
+CUST_416,2025-04-03,Medellin,Consumer
+CUST_417,2025-10-07,Cali,Corporate
+CUST_418,2025-08-26,Cali,Corporate
+CUST_419,2025-03-08,Cartagena,Corporate
+CUST_420,2025-03-30,Barranquilla,Corporate
+CUST_421,2025-11-04,Barranquilla,Corporate
+CUST_422,2025-02-13,Bogota,Consumer
+CUST_423,2025-11-05,Bogota,Corporate
+CUST_424,2025-11-14,Bogota,Consumer
+CUST_425,2025-04-13,Medellin,Corporate
+CUST_426,2026-01-01,Medellin,Consumer
+CUST_427,2025-10-25,Cali,Corporate
+CUST_428,2025-09-09,Barranquilla,Home Office
+CUST_429,2025-08-07,Cartagena,Home Office
+CUST_430,2025-06-01,Medellin,Home Office
+CUST_431,2025-05-13,Medellin,Consumer
+CUST_432,2025-05-18,Cali,Home Office
+CUST_433,2025-03-23,Bogota,Consumer
+CUST_434,2025-03-16,Barranquilla,Home Office
+CUST_435,2025-04-03,Cartagena,Home Office
+CUST_436,2025-08-16,Medellin,Home Office
+CUST_437,2025-01-28,Barranquilla,Home Office
+CUST_438,2025-09-28,Cartagena,Corporate
+CUST_439,2025-09-08,Bogota,Home Office
+CUST_440,2025-03-14,Cartagena,Corporate
+CUST_441,2025-01-16,Bogota,Consumer
+CUST_442,2025-12-20,Barranquilla,Corporate
+CUST_443,2025-11-23,Cartagena,Home Office
+CUST_444,2025-08-05,Bogota,Consumer
+CUST_445,2025-09-07,Medellin,Consumer
+CUST_446,2025-01-25,Barranquilla,Consumer
+CUST_447,2025-09-09,Cali,Corporate
+CUST_448,2025-07-08,Cartagena,Home Office
+CUST_449,2025-10-14,Barranquilla,Corporate
+CUST_450,2025-03-09,Cali,Corporate
+CUST_451,2025-10-07,Cartagena,Home Office
+CUST_452,2025-05-03,Cali,Corporate
+CUST_453,2025-03-31,Medellin,Corporate
+CUST_454,2025-09-28,Cali,Corporate
+CUST_455,2025-06-10,Bogota,Consumer
+CUST_456,2025-12-06,Medellin,Consumer
+CUST_457,2025-10-29,Cartagena,Consumer
+CUST_458,2025-06-24,Medellin,Home Office
+CUST_459,2025-12-06,Medellin,Home Office
+CUST_460,2025-09-06,Cartagena,Home Office
+CUST_461,2025-03-07,Medellin,Corporate
+CUST_462,2025-07-10,Cali,Consumer
+CUST_463,2025-06-05,Bogota,Consumer
+CUST_464,2025-08-01,Bogota,Corporate
+CUST_465,2025-06-26,Cartagena,Consumer
+CUST_466,2025-01-11,Cartagena,Corporate
+CUST_467,2025-02-01,Bogota,Consumer
+CUST_468,2025-11-12,Barranquilla,Consumer
+CUST_469,2025-04-25,Medellin,Corporate
+CUST_470,2025-05-02,Barranquilla,Consumer
+CUST_471,2025-08-23,Cartagena,Corporate
+CUST_472,2025-12-04,Cartagena,Home Office
+CUST_473,2025-04-04,Cartagena,Corporate
+CUST_474,2025-05-01,Bogota,Corporate
+CUST_475,2025-09-15,Cartagena,Corporate
+CUST_476,2025-11-12,Cali,Corporate
+CUST_477,2025-04-03,Bogota,Consumer
+CUST_478,2025-05-02,Medellin,Corporate
+CUST_479,2025-05-10,Medellin,Corporate
+CUST_480,2025-12-14,Medellin,Home Office
+CUST_481,2025-05-14,Cartagena,Consumer
+CUST_482,2025-07-05,Cartagena,Consumer
+CUST_483,2025-05-08,Cartagena,Consumer
+CUST_484,2025-10-19,Medellin,Consumer
+CUST_485,2025-12-14,Medellin,Consumer
+CUST_486,2025-10-29,Medellin,Home Office
+CUST_487,2025-04-16,Cartagena,Home Office
+CUST_488,2025-03-20,Barranquilla,Consumer
+CUST_489,2025-03-06,Bogota,Home Office
+CUST_490,2025-03-21,Cartagena,Consumer
+CUST_491,2025-03-13,Barranquilla,Corporate
+CUST_492,2025-07-31,Cartagena,Consumer
+CUST_493,2025-06-09,Medellin,Corporate
+CUST_494,2025-11-08,Cali,Corporate
+CUST_495,2025-07-22,Medellin,Home Office
+CUST_496,2025-08-11,Barranquilla,Corporate
+CUST_497,2025-08-05,Cali,Home Office
+CUST_498,2025-06-05,Medellin,Consumer
+CUST_499,2025-04-03,Bogota,Home Office
+CUST_500,2025-09-11,Bogota,Corporate

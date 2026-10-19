@@ -1,0 +1,17 @@
+{
+    "name": "ds_adls_raw_temp_target",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "ls_adls_proyecto1",
+            "type": "LinkedServiceReference"
+        },
+        "type": "Binary",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobFSLocation",
+                "folderPath": "raw/temp",
+                "fileSystem": "proyecto1"
+            }
+        }
+    }
+}

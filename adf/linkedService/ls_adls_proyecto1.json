@@ -1,0 +1,10 @@
+{
+    "name": "ls_adls_proyecto1",
+    "properties": {
+        "type": "AzureBlobFS",
+        "typeProperties": {
+            "url": "https://saelv001.dfs.core.windows.net",
+            "encryptedCredential": "ew0K..."
+        }
+    }
+}

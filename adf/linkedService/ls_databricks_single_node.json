@@ -1,0 +1,15 @@
+{
+    "name": "ls_databricks_single_node",
+    "properties": {
+        "type": "AzureDatabricks",
+        "typeProperties": {
+            "domain": "https://azuredatabricks.net",
+            "authenticationType": "AccessTicket",
+            "accessToken": {
+                "type": "SecureString",
+                "value": "dapi_TOKEN_AQUI"
+            },
+            "existingClusterId": "adb-7405614273901182.2.azuredatabricks.net"
+        }
+    }
+}
